@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stev-dev
-- 👀 I’m interested in MEARN stack , python and AI
+- 👀 I’m interested in MERN stack , python and AI
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on fullstack projects
 - 📫 How to reach me ...
