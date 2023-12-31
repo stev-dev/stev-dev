@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stev-dev
 - 👀 I’m interested in MERN stack , python and AI
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently working on Reactjs projects
 - 💞️ I’m looking to collaborate on fullstack projects
 
 <!---
